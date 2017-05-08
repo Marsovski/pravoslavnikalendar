@@ -1,2 +1,2 @@
-# pravoslavnikalendar
+# Pravoslavni Kalendar
 Pravoslavni Kalendar
